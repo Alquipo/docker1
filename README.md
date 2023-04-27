@@ -61,7 +61,7 @@ Caso queira construir a imagem localmente a partir do Dockerfile otimizado, siga
 2. Execute o seguinte comando para construir a imagem Docker:
 
 ```bash
-docker build -t hello-golang-optimized .
+docker build -t alquipo/hello-golang-optimized .
 ```
 
 Em seguida, siga as instruções na seção "Como executar a imagem" acima para executar a imagem construída localmente.
